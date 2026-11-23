@@ -1,0 +1,101 @@
+order_id,date,region,product,quantity,unit_price,sales_rep,total_sales
+1,2024-01-01,East,Inverter 5kW,17,649,Sara,11033
+2,2024-01-02,West,Solar Panel 400W,9,655,Ahmed,5895
+3,2024-01-03,North,Solar Panel 400W,1,513,Ahmed,513
+4,2024-01-04,East,Battery 10kWh,13,429,Sara,5577
+5,2024-01-05,East,Inverter 5kW,16,742,Ayesha,11872
+6,2024-01-06,West,Solar Panel 400W,13,863,Ayesha,11219
+7,2024-01-07,North,Battery 10kWh,14,307,Ali,4298
+8,2024-01-08,North,Inverter 5kW,3,781,Ayesha,2343
+9,2024-01-09,East,Battery 10kWh,6,208,Ahmed,1248
+10,2024-01-10,South,Solar Panel 550W,18,876,Ahmed,15768
+11,2024-01-11,East,Solar Panel 400W,19,277,Ayesha,5263
+12,2024-01-12,East,Solar Panel 550W,5,885,Ahmed,4425
+13,2024-01-13,East,Inverter 5kW,15,870,Sara,13050
+14,2024-01-14,East,Solar Panel 550W,2,264,Sara,528
+15,2024-01-15,West,Solar Panel 550W,10,358,Ayesha,3580
+16,2024-01-16,North,Inverter 5kW,18,675,Sara,12150
+17,2024-01-17,West,Battery 10kWh,13,670,Sara,8710
+18,2024-01-18,West,Solar Panel 550W,5,701,Ali,3505
+19,2024-01-19,West,Battery 10kWh,1,386,Ali,386
+20,2024-01-20,East,Solar Panel 550W,1,430,Sara,430
+21,2024-01-21,South,Battery 10kWh,18,508,Ayesha,9144
+22,2024-01-22,North,Inverter 5kW,15,350,Ali,5250
+23,2024-01-23,South,Solar Panel 550W,17,427,Ahmed,7259
+24,2024-01-24,West,Inverter 5kW,11,384,Ahmed,4224
+25,2024-01-25,West,Solar Panel 550W,17,643,Ahmed,10931
+26,2024-01-26,South,Inverter 5kW,13,153,Ayesha,1989
+27,2024-01-27,South,Inverter 5kW,1,815,Sara,815
+28,2024-01-28,South,Solar Panel 550W,2,591,Ahmed,1182
+29,2024-01-29,West,Solar Panel 550W,9,178,Ayesha,1602
+30,2024-01-30,West,Solar Panel 550W,3,258,Ali,774
+31,2024-01-31,North,Solar Panel 400W,1,759,Sara,759
+32,2024-02-01,North,Battery 10kWh,16,876,Ali,14016
+33,2024-02-02,West,Solar Panel 400W,6,224,Ayesha,1344
+34,2024-02-03,South,Solar Panel 400W,17,295,Ahmed,5015
+35,2024-02-04,South,Inverter 5kW,5,277,Ahmed,1385
+36,2024-02-05,North,Solar Panel 550W,5,191,Ayesha,955
+37,2024-02-06,West,Battery 10kWh,6,505,Ahmed,3030
+38,2024-02-07,North,Inverter 5kW,3,190,Sara,570
+39,2024-02-08,North,Solar Panel 400W,5,183,Ayesha,915
+40,2024-02-09,East,Solar Panel 550W,5,166,Ali,830
+41,2024-02-10,East,Inverter 5kW,10,826,Ayesha,8260
+42,2024-02-11,East,Solar Panel 550W,10,302,Sara,3020
+43,2024-02-12,South,Inverter 5kW,19,527,Sara,10013
+44,2024-02-13,West,Solar Panel 550W,17,737,Ayesha,12529
+45,2024-02-14,West,Solar Panel 400W,14,748,Ayesha,10472
+46,2024-02-15,West,Battery 10kWh,9,778,Ahmed,7002
+47,2024-02-16,West,Solar Panel 400W,14,491,Sara,6874
+48,2024-02-17,East,Battery 10kWh,1,176,Ayesha,176
+49,2024-02-18,South,Solar Panel 550W,19,436,Ayesha,8284
+50,2024-02-19,South,Inverter 5kW,13,795,Sara,10335
+51,2024-02-20,East,Solar Panel 400W,13,880,Ayesha,11440
+52,2024-02-21,South,Battery 10kWh,4,317,Ahmed,1268
+53,2024-02-22,East,Solar Panel 400W,1,759,Sara,759
+54,2024-02-23,West,Battery 10kWh,17,417,Ahmed,7089
+55,2024-02-24,East,Solar Panel 400W,8,898,Ahmed,7184
+56,2024-02-25,West,Battery 10kWh,2,604,Ahmed,1208
+57,2024-02-26,West,Battery 10kWh,8,834,Ahmed,6672
+58,2024-02-27,North,Solar Panel 550W,7,550,Sara,3850
+59,2024-02-28,East,Battery 10kWh,2,625,Ahmed,1250
+60,2024-02-29,North,Solar Panel 550W,3,851,Ahmed,2553
+61,2024-03-01,East,Battery 10kWh,18,783,Ayesha,14094
+62,2024-03-02,East,Inverter 5kW,12,707,Sara,8484
+63,2024-03-03,North,Inverter 5kW,1,725,Sara,725
+64,2024-03-04,North,Inverter 5kW,12,279,Ali,3348
+65,2024-03-05,East,Battery 10kWh,5,512,Sara,2560
+66,2024-03-06,South,Solar Panel 550W,17,854,Sara,14518
+67,2024-03-07,West,Solar Panel 550W,16,842,Ali,13472
+68,2024-03-08,North,Battery 10kWh,15,441,Sara,6615
+69,2024-03-09,West,Inverter 5kW,15,520,Sara,7800
+70,2024-03-10,South,Inverter 5kW,5,178,Sara,890
+71,2024-03-11,South,Solar Panel 550W,14,298,Sara,4172
+72,2024-03-12,South,Inverter 5kW,2,445,Ali,890
+73,2024-03-13,North,Solar Panel 400W,11,160,Sara,1760
+74,2024-03-14,South,Solar Panel 550W,19,661,Sara,12559
+75,2024-03-15,North,Inverter 5kW,7,825,Ali,5775
+76,2024-03-16,South,Solar Panel 550W,6,262,Ayesha,1572
+77,2024-03-17,West,Solar Panel 400W,2,336,Ahmed,672
+78,2024-03-18,West,Solar Panel 550W,6,893,Ayesha,5358
+79,2024-03-19,East,Solar Panel 550W,18,376,Ali,6768
+80,2024-03-20,West,Solar Panel 550W,2,459,Ahmed,918
+81,2024-03-21,East,Solar Panel 550W,18,247,Ali,4446
+82,2024-03-22,West,Solar Panel 400W,15,204,Ali,3060
+83,2024-03-23,North,Battery 10kWh,19,772,Sara,14668
+84,2024-03-24,West,Solar Panel 550W,2,813,Ahmed,1626
+85,2024-03-25,East,Solar Panel 550W,6,555,Sara,3330
+86,2024-03-26,East,Inverter 5kW,1,218,Ahmed,218
+87,2024-03-27,South,Solar Panel 550W,15,461,Ali,6915
+88,2024-03-28,North,Inverter 5kW,10,438,Ali,4380
+89,2024-03-29,West,Battery 10kWh,19,697,Ayesha,13243
+90,2024-03-30,South,Solar Panel 400W,17,297,Ahmed,5049
+91,2024-03-31,West,Solar Panel 400W,5,616,Sara,3080
+92,2024-04-01,West,Battery 10kWh,4,888,Ayesha,3552
+93,2024-04-02,South,Solar Panel 400W,10,393,Ayesha,3930
+94,2024-04-03,South,Battery 10kWh,17,640,Ayesha,10880
+95,2024-04-04,South,Battery 10kWh,10,656,Sara,6560
+96,2024-04-05,South,Battery 10kWh,17,514,Ayesha,8738
+97,2024-04-06,South,Solar Panel 400W,5,631,Sara,3155
+98,2024-04-07,West,Inverter 5kW,2,350,Ayesha,700
+99,2024-04-08,South,Battery 10kWh,6,303,Sara,1818
+100,2024-04-09,North,Solar Panel 550W,2,599,Ali,1198
