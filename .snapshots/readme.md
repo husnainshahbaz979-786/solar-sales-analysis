@@ -1,11 +1,8 @@
-# Snapshots Directory
+# Solar Sales Analysis
 
-This directory contains snapshots of your code for AI interactions. Each snapshot is a markdown file that includes relevant code context and project structure information.
+Dataset: Solar Power Generation Data by anikannal
+Source: https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+File used: data/Plant_1_Generation_Data.csv
 
-## What's included in snapshots?
-- Selected code files and their contents
-- Project structure (if enabled)
-- Your prompt/question for the AI
-
-## Configuration
-You can customize snapshot behavior in `config.json`.
+load_data.py reads the real CSV from data/ folder, cleans it,
+and writes data/cleaned_preview.csv. No synthetic data is generated.
