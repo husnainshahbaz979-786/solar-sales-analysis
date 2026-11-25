@@ -7,7 +7,7 @@
 This deployed app runs the same code as `src/app.py` in this repo.
 
 ## Demo Video
-Watch Demo: https://youtu.be/ADD-YOUR-VIDEO-LINK-HERE
+Watch Demo: https://youtu.be/kc6RDm5_QtA
 
 ## What it does
 - Generates 500 fake solar sales records
